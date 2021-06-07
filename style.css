@@ -22,12 +22,6 @@ h2{
     color: white;
     height: 70%;
 }
-h4{
-    position: fixed;
-    color: white;
-    top: 90%;
-    height: 10%;
-}
 
 .time-select, .sound-picker, .player-container{
 height: 80%;
